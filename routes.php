@@ -10,6 +10,7 @@ require 'controllers/DeshboardController.php';
  
 // Cria instâncias dos controladores para ultilizar seus métodos
 $authController = new AuthController();
+$userController = new UserController();
 // Instancia o controlador de autenticação
  
 // Coleta a ação de URL, se não houver definida, usa 'login' por padrão
@@ -19,7 +20,7 @@ $action = $_GET['action'] ?? 'login';
 // Verifica a ação solicitada e chama o método apropriado do controlador
 switch($action){
     case 'login':
-        $authController->login();
+        $authController->login(); 
 }
 ?>
  
