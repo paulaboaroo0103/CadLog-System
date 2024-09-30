@@ -16,11 +16,11 @@
 
 [*Colaborador:* 👥 ](https://github.com/paulaboaroo0103/CadLog-System?tab=readme-ov-file#colaborador-)
 
-## *Página de Login*
+## *Página de Login* ✍️
 
 ![image](img.login.png)
 
-## *Página de Cadastro*
+## *Página de Cadastro* 🔒
 
 ![image](img.cadastro.png)
 
