@@ -36,9 +36,13 @@ routes.php      -> Definição de rotas e endpoints
  ## Tecnologias Utilizadas
  **HTML, CSS, PHP**
 
-```ruby HTML:``` Utilizado para estruturar o conteúdo das páginas, permitindo a criação de formulários, tabelas e links que compõem a interface do usuário.
+```ruby
+ HTML: ```
+  Utilizado para estruturar o conteúdo das páginas, permitindo a criação de formulários, tabelas e links que compõem a interface do usuário.
 
-CSS: Responsável pela estilização do layout, garantindo uma aparência moderna e responsiva, com foco na experiência do usuário.
+```ruby
+CSS:```
+ Responsável pela estilização do layout, garantindo uma aparência moderna e responsiva, com foco na experiência do usuário.
 
 PHP: Usado para a lógica do lado do servidor, incluindo a manipulação de dados, autenticação de usuários e interações com o banco de dados.
 
