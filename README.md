@@ -34,9 +34,9 @@ routes.php      -> Definição de rotas e endpoints
  <!-- ENTRE OUTROS -->
 
  ## Tecnologias Utilizadas
- HTML, CSS, PHP
+ **HTML, CSS, PHP**
 
-HTML: Utilizado para estruturar o conteúdo das páginas, permitindo a criação de formulários, tabelas e links que compõem a interface do usuário.
+```ruby HTML:``` Utilizado para estruturar o conteúdo das páginas, permitindo a criação de formulários, tabelas e links que compõem a interface do usuário.
 
 CSS: Responsável pela estilização do layout, garantindo uma aparência moderna e responsiva, com foco na experiência do usuário.
 
@@ -48,22 +48,29 @@ Git e GitHub: Para controle de versão e colaboração, permitindo que a equipe 
 
 ## Fontes 
 
-*MDN Web Docs (Mozilla Developer Network)
+1.MDN Web Docs (Mozilla Developer Network)
 
-Documentação abrangente sobre HTML, CSS e JavaScript.
-MDN Web Docs
-W3Schools
+* Documentação abrangente sobre HTML, CSS e JavaScript.
 
-*Tutoriais e referências sobre diversas tecnologias web.
-W3Schools
-PHP Manual
+* [text](https://developer.mozilla.org/pt-BR/)
 
-*Documentação oficial do PHP, com exemplos e guias.
-PHP Manual
-MySQL Documentation
+2.W3Schools
 
-*Documentação oficial do MySQL, incluindo guias de instalação e uso.
-MySQL Documentation
+* Tutoriais e referências sobre diversas tecnologias web.
+
+* [text](https://www.w3schools.com/)
+
+3.PHP Manual
+
+* Documentação oficial do PHP, com exemplos e guias.
+
+* [text](https://www.php.net/manual/en/index.php)
+
+4.MySQL Documentation
+
+* Documentação oficial do MySQL, incluindo guias de instalação e uso.
+
+* [text](https://dev.mysql.com/doc/)
 
 
 ## Autora 👩🏽
