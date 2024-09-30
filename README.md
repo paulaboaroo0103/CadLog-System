@@ -36,21 +36,16 @@ routes.php      -> Definição de rotas e endpoints
  ## Tecnologias Utilizadas
  **HTML, CSS, PHP**
 
-```ruby
- HTML: 
- ```
-  Utilizado para estruturar o conteúdo das páginas, permitindo a criação de formulários, tabelas e links que compõem a interface do usuário.
 
-```ruby
-CSS:
-```
- Responsável pela estilização do layout, garantindo uma aparência moderna e responsiva, com foco na experiência do usuário.
+ ```HTML:``` Utilizado para estruturar o conteúdo das páginas, permitindo a criação de formulários, tabelas e links que compõem a interface do usuário.
 
-PHP: Usado para a lógica do lado do servidor, incluindo a manipulação de dados, autenticação de usuários e interações com o banco de dados.
+```CSS:```Responsável pela estilização do layout, garantindo uma aparência moderna e responsiva, com foco na experiência do usuário.
 
-MySQL: Sistema de gerenciamento de banco de dados relacional utilizado para armazenar dados de usuários e registros de forma segura e eficiente.
+```PHP:``` Usado para a lógica do lado do servidor, incluindo a manipulação de dados, autenticação de usuários e interações com o banco de dados.
 
-Git e GitHub: Para controle de versão e colaboração, permitindo que a equipe gerencie alterações no código e mantenha um histórico do desenvolvimeNTO. 
+```MySQL: ```Sistema de gerenciamento de banco de dados relacional utilizado para armazenar dados de usuários e registros de forma segura e eficiente.
+
+```Git e GitHub:``` Para controle de versão e colaboração, permitindo que a equipe gerencie alterações no código e mantenha um histórico do desenvolvimeNTO. ``` 
 
 ## Fontes 
 
