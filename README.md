@@ -17,11 +17,13 @@ Validação de Dados : Realize verificações em tempo real para garantir que as
 
 ## Estrutura do Projeto ✏️
 
-/controllers    -> Controladores principais do sistema
-/models         -> Definições e interações com o banco de dados
-/views          -> Interface visual do sistema
-auth.php        -> Módulo de autenticação de usuários
-routes.php      -> Definição de rotas e endpoints
+
+```/controllers    -> Controladores principais do sistema```
+```/models         -> Definições e interações com o banco de dados```
+```/views          -> Interface visual do sistema```
+```auth.php        -> Módulo de autenticação de usuários```
+```routes.php      -> Definição de rotas e endpoints```
+
 
 ## Onde Posso Usar?
  
@@ -55,19 +57,19 @@ routes.php      -> Definição de rotas e endpoints
 
 * [text](https://developer.mozilla.org/pt-BR/)
 
-2.W3Schools
+2.**W3Schools**
 
 * Tutoriais e referências sobre diversas tecnologias web.
 
 * [text](https://www.w3schools.com/)
 
-3.PHP Manual
+3.**PHP Manual**
 
 * Documentação oficial do PHP, com exemplos e guias.
 
 * [text](https://www.php.net/manual/en/index.php)
 
-4.MySQL Documentation
+4.**MySQL Documentation**
 
 * Documentação oficial do MySQL, incluindo guias de instalação e uso.
 
