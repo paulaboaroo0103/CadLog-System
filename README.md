@@ -1,5 +1,21 @@
 # *Índice* 🔗
 
+[*Descrição* 📝](https://github.com/paulaboaroo0103/CadLog-System?tab=readme-ov-file#descri%C3%A7%C3%A3o-)
+
+[*Funcionalidades* ⚙️](https://github.com/paulaboaroo0103/CadLog-System?tab=readme-ov-file#funcionalidades-%EF%B8%8F)
+
+[*Estrutura do Projeto* ✏️](https://github.com/paulaboaroo0103/CadLog-System?tab=readme-ov-file#estrutura-do-projeto-%EF%B8%8F)
+
+[*Onde Posso Usar?* 💡](https://github.com/paulaboaroo0103/CadLog-System?tab=readme-ov-file#onde-posso-usar-)
+
+[*Tecnologias Utilizadas*💻](https://github.com/paulaboaroo0103/CadLog-System?tab=readme-ov-file#tecnologias-utilizadas)
+
+[*Fontes* 📚](https://github.com/paulaboaroo0103/CadLog-System?tab=readme-ov-file#fontes-)
+
+[*Autora* 👩🏽](https://github.com/paulaboaroo0103/CadLog-System?tab=readme-ov-file#autora-)
+
+[t*Colaborador:* 👥 ](https://github.com/paulaboaroo0103/CadLog-System?tab=readme-ov-file#colaborador-)
+
 ## *Descrição* 📝
 O CadLog-System é uma aplicação robusta para gerenciamento de cadastro e login de usuários, focada em segurança e eficiência. Utilize PHP para backend e integração com banco de dados para armazenamento de dados.*Adaptabilidade e expansibilidade*
 
