@@ -1,9 +1,9 @@
-# Índice 🔗
+# ******Índice* 🔗
 
-## Descrição 📝
+## *Descrição* 📝
 O CadLog-System é uma aplicação robusta para gerenciamento de cadastro e login de usuários, focada em segurança e eficiência. Utilize PHP para backend e integração com banco de dados para armazenamento de dados.*Adaptabilidade e expansibilidade*
 
-## Funcionalidades ⚙️
+## *Funcionalidades* ⚙️
 
 **Cadastro de Usuários :** Permite que novos usuários se registrem no sistema com validação de dados, garantindo que informações incorretas não sejam aceitas.
 
@@ -29,7 +29,7 @@ O CadLog-System é uma aplicação robusta para gerenciamento de cadastro e logi
 **routes.php**      -> Definição de rotas e endpoints
 
 
-## Onde Posso Usar?
+## *Onde Posso Usar?*💡
  
  **Plataformas de E-commerce**: Implementar um sistema de cadastro e login para usuários que desejam comprar produtos online, garantindo a segurança das informações pessoais.
 
@@ -39,7 +39,7 @@ O CadLog-System é uma aplicação robusta para gerenciamento de cadastro e logi
 
  <!-- ENTRE OUTROS -->
 
- ## Tecnologias Utilizadas
+ ## *Tecnologias Utilizadas*💻
  **HTML, CSS, PHP**
 
 
@@ -53,7 +53,7 @@ O CadLog-System é uma aplicação robusta para gerenciamento de cadastro e logi
 
 **```Git e GitHub:```** Para controle de versão e colaboração, permitindo que a equipe gerencie alterações no código e mantenha um histórico do desenvolvimeNTO. ``` 
 
-## Fontes 
+## *Fontes*📚
 
 1.**MDN Web Docs (Mozilla Developer Network)**
 
@@ -80,10 +80,10 @@ O CadLog-System é uma aplicação robusta para gerenciamento de cadastro e logi
 * [https://dev.mysql.com/doc/](https://dev.mysql.com/doc/)
 
 
-## Autora 👩🏽
+## *Autora* 👩🏽
 | [<img loading="lazy" src="https://user-images.githubusercontent.com/127847275/272244520-740a7042-aefd-42c6-ad38-536121527e4b.png" width=95><br><sub>Paula Boaro</sub>](https://github.com/paulaboaroo0103) 
 | :---: |
 
-### Colaborador:
+### *Colaborador:*👥 
 |  [<img loading="lazy" src="https://user-images.githubusercontent.com/86802310/268408790-48baaee3-ce37-4ad6-9348-ecb738990343.png" width=95><br><sub>Leonardo Rocha </sub>](https://github.com/leonardorochamarista)
 | :---: |
