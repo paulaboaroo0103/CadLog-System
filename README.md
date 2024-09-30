@@ -18,11 +18,15 @@ Validação de Dados : Realize verificações em tempo real para garantir que as
 ## Estrutura do Projeto ✏️
 
 
-```/controllers    -> Controladores principais do sistema```
-```/models         -> Definições e interações com o banco de dados```
-```/views          -> Interface visual do sistema```
-```auth.php        -> Módulo de autenticação de usuários```
-```routes.php      -> Definição de rotas e endpoints```
+**/controllers**    -> Controladores principais do sistema
+
+**/models**         -> Definições e interações com o banco de dados
+
+**/views**          -> Interface visual do sistema
+
+**auth.php**        -> Módulo de autenticação de usuários
+
+**routes.php**      -> Definição de rotas e endpoints
 
 
 ## Onde Posso Usar?
@@ -55,7 +59,7 @@ Validação de Dados : Realize verificações em tempo real para garantir que as
 
 * Documentação abrangente sobre HTML, CSS e JavaScript.
 
-* [text](https://developer.mozilla.org/pt-BR/)
+* [https://developer.mozilla.org/pt-BR/](https://developer.mozilla.org/pt-BR/)
 
 2.**W3Schools**
 
