@@ -5,17 +5,17 @@ O CadLog-System é uma aplicação robusta para gerenciamento de cadastro e logi
 
 ## Funcionalidades ⚙️
 
-Cadastro de Usuários : Permite que novos usuários se registrem no sistema com validação de dados, garantindo que informações incorretas não sejam aceitas.
+**Cadastro de Usuários :** Permite que novos usuários se registrem no sistema com validação de dados, garantindo que informações incorretas não sejam aceitas.
 
-Autenticação : Implementa um processo seguro de login que verifica as credenciais dos usuários, utilizando hashing de senhas para proteção.
+**Autenticação :**  Implementa um processo seguro de login que verifica as credenciais dos usuários, utilizando hashing de senhas para proteção.
 
-Gerenciamento de Sessões : Mantém o controle das sessões dos usuários, permitindo que eles permaneçam logados enquanto navegam pelo sistema.
+**Gerenciamento de Sessões :**  Mantém o controle das sessões dos usuários, permitindo que eles permaneçam logados enquanto navegam pelo sistema.
 
-Logout : Oferece uma opção de logout que encerra a sessão do usuário, garantindo que não haja acesso não autorizado.
+**Logout :**  Oferece uma opção de logout que encerra a sessão do usuário, garantindo que não haja acesso não autorizado.
 
-Validação de Dados : Realize verificações em tempo real para garantir que as informações inseridas no cadastro estejam corretas e completas.
+**Validação de Dados :**  Realize verificações em tempo real para garantir que as informações inseridas no cadastro estejam corretas e completas.
 
-## Estrutura do Projeto ✏️
+## *Estrutura do Projeto* ✏️
 
 
 **/controllers**    -> Controladores principais do sistema
@@ -65,19 +65,19 @@ Validação de Dados : Realize verificações em tempo real para garantir que as
 
 * Tutoriais e referências sobre diversas tecnologias web.
 
-* [text](https://www.w3schools.com/)
+* [https://www.w3schools.com/](https://www.w3schools.com/)
 
 3.**PHP Manual**
 
 * Documentação oficial do PHP, com exemplos e guias.
 
-* [text](https://www.php.net/manual/en/index.php)
+* [https://www.php.net/manual/en/index.php](https://www.php.net/manual/en/index.php)
 
 4.**MySQL Documentation**
 
 * Documentação oficial do MySQL, incluindo guias de instalação e uso.
 
-* [text](https://dev.mysql.com/doc/)
+* [https://dev.mysql.com/doc/](https://dev.mysql.com/doc/)
 
 
 ## Autora 👩🏽
