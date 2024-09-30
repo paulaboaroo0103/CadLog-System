@@ -17,7 +17,12 @@
 [*Colaborador:* 👥 ](https://github.com/paulaboaroo0103/CadLog-System?tab=readme-ov-file#colaborador-)
 
 ## *Página de Login*
-![image](img/img.login.png)
+
+![image](img.login.png)
+
+## *Página de Cadastro*
+
+![image](img.cadastro.png)
 
 ## *Descrição* 📝
 O CadLog-System é uma aplicação robusta para gerenciamento de cadastro e login de usuários, focada em segurança e eficiência. Utilize PHP para backend e integração com banco de dados para armazenamento de dados.*Adaptabilidade e expansibilidade*
