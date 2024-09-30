@@ -43,7 +43,7 @@ routes.php      -> Definição de rotas e endpoints
 
 ```PHP:``` Usado para a lógica do lado do servidor, incluindo a manipulação de dados, autenticação de usuários e interações com o banco de dados.
 
-```MySQL: ```Sistema de gerenciamento de banco de dados relacional utilizado para armazenar dados de usuários e registros de forma segura e eficiente.
+```**MySQL:** ```Sistema de gerenciamento de banco de dados relacional utilizado para armazenar dados de usuários e registros de forma segura e eficiente.
 
 ```Git e GitHub:``` Para controle de versão e colaboração, permitindo que a equipe gerencie alterações no código e mantenha um histórico do desenvolvimeNTO. ``` 
 
