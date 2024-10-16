@@ -22,7 +22,12 @@
             $stmt = $conn->prepare("INSERT INTO usuarios (nome, email, senha, perfil) VALUES (:nome, :email, :senha, :perfil)" );
             $stmt->execute($data);
         }
- 
- 
+        
+        public static function all(){
+            $conn = Database::getConnection();
+            $stmt = $conn->query('SELECT *FROM usuarios');
+            return $stmt->fetchAll(PDO::FETCH_ASSOC);
+        }
+        
     }
     ?>

@@ -1,36 +1,35 @@
 <?php
+// Inclui arquivos de controlador para lidar com diferentes ações
+require 'controllers/AuthController.php'; // inclui o controlador de autenticação
+require 'controllers/UserController.php'; // inclui o controlador de usuário
+require 'controllers/DashboardController.php'; // inclui o controlador de dashboard
  
-// inclui arquivo de controlador para lidar com diferentes acoes
+// Cria instâncias dos controladores para utilizar seus métodos
+$authController      = new AuthController(); // Instancia o controlador de autenticação
+$userController      = new UserController();
+$dashboardController = new DashboardControler();
  
-require 'controllers/AuthController.php';
-// inclui controlador de autenticacao
-require 'controllers/DashboardController.php';
-// inclui controlador de usuario
-require 'controllers/UserController.php';
-// inclui controlador do dashboard
+// Coleta a ação da URL, se não houver definida, usa 'login' por padrão
+$action = $_GET['action'] ?? 'login'; // Usa operador de coalescência nula (??) para definir 'login' se 'action' não estiver presente
  
-// cria instancias do controladores para ultilizar seus metodos
- 
-$authController = new AuthController();
- 
-//instancia o controlador de autenticação
-$userController = new userController();
-//coleta a acao da url se, não ouver definida, usa login por padrao
- 
-    $action = $_GET['action'] ?? 'login';//usa o operador de coalecencia nula(??) para definir o 'login' se 'acticion' não estiver presente
- 
+// Verifica a ação solicitada e chama o método apropriado do controlador
 switch($action){
     case 'login':
-        $authController->login();// chama o metodo login do controlador de autenticação
-         break;
-        default:
+        $authController->login(); // chama o método login do controlador de autenticação
+        break;
+    case 'register':
+        $userController->register();
+        break;
+    case 'dashboard':
+        $dashboardController->index();
+        break;
+    case 'logout':
+        $authController->logout();
+        break;
+    default:
         $authController->login();
         break;
-        case 'register':
-        $userController-> register();
-    break;
-$authController->login();
-break;
 }
 ?>
-
+ 
+tem menu de contexto

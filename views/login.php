@@ -105,15 +105,12 @@
 </head>
 <body> 
     <main> 
-    <h2>Entrar</h2> <!-- Título ajustado com a nova fonte e cor roxa -->
-     <!-- O formulário usa o método POST para enviar dados de forma segura -->
-      <!-- Os dados serão enviados para 'index.php' com a ação 'login' --> 
-    <form method="post" action="index.php?action=login"> 
-    <input type="email" name="email" placeholder="Email" required><br> 
-    <input type="password" name="senha" placeholder="Senha" required><br> 
-    <button type="submit">Login</button> </form>
-     <!-- Define o destino do link e leva à opção de cadastro --> 
-     <a href="index.php?action=register">Cadastrar-se</a> 
+    <form method="post" action="index.php?action=login">
+            <input type="email" name="email" placeholder="Email" required>
+            <input type="password" name="senha" placeholder="Senha" required>
+            <button type="submit">Login</button>
+        </form>
+        <a href="index.php?action=register">Cadastrar-se</a>
     </main> 
 </body>
 </html>
