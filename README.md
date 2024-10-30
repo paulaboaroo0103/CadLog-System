@@ -2,6 +2,12 @@
 
 [*Descrição* 📝](https://github.com/paulaboaroo0103/CadLog-System?tab=readme-ov-file#descri%C3%A7%C3%A3o-)
 
+[*Página de Login* ✍️](https://github.com/paulaboaroo0103/CadLog-System?tab=readme-ov-file#p%C3%A1gina-de-login-%EF%B8%8F)
+
+[*Página de Cadastro* 🔒](https://github.com/paulaboaroo0103/CadLog-System?tab=readme-ov-file#p%C3%A1gina-de-cadastro-)
+
+[*Lista de Usuários* 👥](https://github.com/paulaboaroo0103/CadLog-System?tab=readme-ov-file#lista-de-usu%C3%A1rios-)
+
 [*Funcionalidades* ⚙️](https://github.com/paulaboaroo0103/CadLog-System?tab=readme-ov-file#funcionalidades-%EF%B8%8F)
 
 [*Estrutura do Projeto* ✏️](https://github.com/paulaboaroo0103/CadLog-System?tab=readme-ov-file#estrutura-do-projeto-%EF%B8%8F)
@@ -9,6 +15,8 @@
 [*Onde Posso Usar?* 💡](https://github.com/paulaboaroo0103/CadLog-System?tab=readme-ov-file#onde-posso-usar-)
 
 [*Tecnologias Utilizadas*💻](https://github.com/paulaboaroo0103/CadLog-System?tab=readme-ov-file#tecnologias-utilizadas)
+
+[*Design e Estética*🎨](https://github.com/paulaboaroo0103/CadLog-System?tab=readme-ov-file#design-e-est%C3%A9tica)
 
 [*Fontes* 📚](https://github.com/paulaboaroo0103/CadLog-System?tab=readme-ov-file#fontes-)
 
