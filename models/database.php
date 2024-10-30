@@ -1,9 +1,9 @@
 <?php
- 
+
 class Database{
     // Utiliza padrão Singleton, cujo objtivo é garantir que apenas uma única instância de classe seja criada durante a execução do programa, e que essa instância seja utilizada sempre que necessário
     private static $instance = null;
- 
+
     //Método público que retorna a conexão com BD
     public static function getConnection(){
         // Verifica se a instância de conexão ainda não foi criada
@@ -21,4 +21,3 @@ class Database{
     }
 }
 ?>
-tem menu de contexto

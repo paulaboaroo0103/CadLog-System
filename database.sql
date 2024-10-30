@@ -7,6 +7,6 @@ CREATE TABLE usuarios (
     nome VARCHAR(100) NOT NULL,
     email VARCHAR(100) NOT NULL UNIQUE,
     senha VARCHAR(255) NOT NULL,
-    perfil ENUM('admin','gestor','colaborador') NOT NULL,
+    perfil ENUM('admin', 'gestor', 'colaborador') NOT NULL,
     created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
-    );
+);

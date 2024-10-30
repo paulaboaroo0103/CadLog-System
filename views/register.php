@@ -1,11 +1,11 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-br">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Cadastrar-se</title>
     <style>
-        /* Importando fontes divertidas e elegantes do Google Fonts */
+        /* Importando fontes do Google Fonts */
         @import url('https://fonts.googleapis.com/css2?family=Fredoka:wght@400;600&family=Pacifico&display=swap');
 
         body {
@@ -19,13 +19,13 @@
         }
 
         main {
-            text-align: left; /* Alinhamento à esquerda para o conteúdo */
             background-color: #d1c4e9; /* Cor lilás para o fundo da caixa */
             padding: 2em;
             border-radius: 20px;
             box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
             animation: float 3s ease-in-out infinite; /* Animação suave */
             width: 350px; /* Largura fixa */
+            text-align: left; /* Alinhamento à esquerda para o conteúdo */
         }
 
         h2 {
@@ -43,6 +43,8 @@
 
         label {
             font-weight: bold;
+            font-size: 1.1em;
+            color: #7b1fa2; /* Cor roxa */
             margin-bottom: 5px;
         }
 
@@ -104,33 +106,25 @@
 </head>
 <body>
     <main>
-        <h2>Cadastro de usuário</h2>
+        <h2>Cadastro de Usuário</h2>
         <form action="index.php?action=register" method="post">
-            <div>
-                <label for="nome">Nome</label>
-                <input type="text" name="nome" id="nome" required>
-            </div>
+            <label for="nome">Nome</label>
+            <input type="text" name="nome" id="nome" required>
 
-            <div>
-                <label for="email">Email</label>
-                <input type="email" name="email" id="email" required>
-            </div>
+            <label for="email">Email</label>
+            <input type="email" name="email" id="email" required>
 
-            <div>
-                <label for="senha">Senha</label>
-                <input type="password" name="senha" id="senha" required>
-            </div>
+            <label for="senha">Senha</label>
+            <input type="password" name="senha" id="senha" required>
 
-            <div>
-                <label for="perfil">Perfil</label>
-                <select name="perfil" id="perfil">
-                    <option value="admin">Admin</option>
-                    <option value="gestor">Gestor</option>
-                    <option value="colaborador">Colaborador</option>
-                </select>
-            </div>
+            <label for="perfil">Perfil</label>
+            <select name="perfil" id="perfil">
+                <option value="admin">Admin</option>
+                <option value="gestor">Gestor</option>
+                <option value="colaborador">Colaborador</option>
+            </select>
 
-            <button type="submit">Cadastrar-se</button>
+            <button type="submit">Cadastrar</button>
         </form>
 
         <a href="index.php?action=login">Voltar ao Login</a>

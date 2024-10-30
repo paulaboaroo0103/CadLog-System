@@ -16,16 +16,28 @@
 
 [*Colaborador:* 👥 ](https://github.com/paulaboaroo0103/CadLog-System?tab=readme-ov-file#colaborador-)
 
+## *Descrição* 📝
+O CadLog-System é uma aplicação robusta para gerenciamento de cadastro e login de usuários, focada em segurança e eficiência. Utilize PHP para backend e integração com banco de dados para armazenamento de dados.*Adaptabilidade e expansibilidade*
+
 ## *Página de Login* ✍️
+
+Permite que os usuários entrem no sistema com suas credenciais. Se o login for bem-sucedido, o sistema redireciona o usuário para a página apropriada (área do administrador ou lista de usuários). Implementa uma verificação segura de senha utilizando hashing.
 
 ![image](img.login.png)
 
 ## *Página de Cadastro* 🔒
 
+Permite que novos usuários se registrem fornecendo informações necessárias como nome, e-mail e senha. As senhas são criptografadas antes de serem armazenadas no banco de dados. O sistema também realiza validações para garantir que os dados inseridos sejam válidos.
+
 ![image](img.cadastro.png)
 
-## *Descrição* 📝
-O CadLog-System é uma aplicação robusta para gerenciamento de cadastro e login de usuários, focada em segurança e eficiência. Utilize PHP para backend e integração com banco de dados para armazenamento de dados.*Adaptabilidade e expansibilidade*
+## *Lista de Usuários* 👥
+
+ Exibe uma lista com todos os usuários cadastrados no sistema. Os usuários podem visualizar e editar seus próprios dados (caso permitido), e o administrador pode gerenciar todos os registros.
+
+ ![image](img.lista.png)
+
+
 
 ## *Funcionalidades* ⚙️
 
@@ -54,12 +66,20 @@ O CadLog-System é uma aplicação robusta para gerenciamento de cadastro e logi
 
 
 ## *Onde Posso Usar?* 💡
+
+O CadLog-System pode ser utilizado em diversos cenários que requerem um sistema de autenticação e gerenciamento de usuários. Aqui estão alguns exemplos de uso:
+
  
  **Plataformas de E-commerce**: Implementar um sistema de cadastro e login para usuários que desejam comprar produtos online, garantindo a segurança das informações pessoais.
 
  **Aplicativos de Reservas**: Implementar um sistema de login para que os usuários possam reservar serviços, como hotéis ou restaurantes.
 
  **Portais de Emprego**: Permite que candidatos se cadastrem, enviem currículos e acompanhem candidaturas.
+
+ **Sistemas Internos de Empresas:** Para autenticação de funcionários em intranets ou sistemas de gestão.
+
+ **Aplicativos de Serviços Públicos:** Para plataformas que oferecem serviços governamentais, onde o cadastro seguro de usuários é essencial.
+
 
  <!-- ENTRE OUTROS -->
 
@@ -76,6 +96,19 @@ O CadLog-System é uma aplicação robusta para gerenciamento de cadastro e logi
 **```MySQL:```** Sistema de gerenciamento de banco de dados relacional utilizado para armazenar dados de usuários e registros de forma segura e eficiente.
 
 **```Git e GitHub:```** Para controle de versão e colaboração, permitindo que a equipe gerencie alterações no código e mantenha um histórico do desenvolvimeNTO. ``` 
+
+## Design e Estética 🎨
+
+Todas as páginas do sistema compartilham o mesmo estilo visual para fornecer uma experiência de usuário consistente e agradável. O design utiliza cores suaves e animações para criar uma interface moderna e responsiva.
+
+# Estética Comum (CSS):
+
+**Cor de fundo:** Verde água (#e0f7fa)
+
+**Cor dos elementos principais:** Lilás (#d1c4e9)
+
+* Animações suaves, com uma leve flutuação nos elementos para criar um efeito dinâmico.
+O código CSS usado no projeto define uma estética leve e moderna, com animações sutis e cores vibrantes, proporcionando uma interface amigável ao usuário.
 
 ## *Fontes* 📚
 

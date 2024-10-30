@@ -1,8 +1,8 @@
 <?php
- 
+
 class DashboardController
 {
- 
+
     public function index()
     {
         // inicia a sessão para verificar se o usuário está autenticado
@@ -16,4 +16,5 @@ class DashboardController
         include 'views/dashboard.php';
     }
 }
+
  
