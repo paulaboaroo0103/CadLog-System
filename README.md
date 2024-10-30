@@ -38,6 +38,9 @@ Permite que novos usuários se registrem fornecendo informações necessárias c
  ![image](img.lista.png)
 
 
+ ![image](img.listausuario.png)
+
+
 
 ## *Funcionalidades* ⚙️
 
