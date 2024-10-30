@@ -97,11 +97,11 @@ O CadLog-System pode ser utilizado em diversos cenários que requerem um sistema
 
 **```Git e GitHub:```** Para controle de versão e colaboração, permitindo que a equipe gerencie alterações no código e mantenha um histórico do desenvolvimeNTO. ``` 
 
-## Design e Estética 🎨
+## *Design e Estética*🎨
 
 Todas as páginas do sistema compartilham o mesmo estilo visual para fornecer uma experiência de usuário consistente e agradável. O design utiliza cores suaves e animações para criar uma interface moderna e responsiva.
 
-# Estética Comum (CSS):
+* *Estética Comum (CSS)*
 
 **Cor de fundo:** Verde água (#e0f7fa)
 
